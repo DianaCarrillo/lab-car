@@ -1,0 +1,72 @@
+#icon-menu{
+    border: solid thin;
+    padding: 5px;
+    border-width: 1px;
+    color: gray;
+}
+
+#taxi-img, #conductor-img{
+     width: 100%;
+height: 80%; 
+height: 100hv;
+
+/* height: 100vw; */
+
+}
+
+.background-color{
+    background-color: #f7b617;
+    padding: 3%;
+}
+.background-color-3{
+    background-color: #f7b617;
+    margin-top: 0;
+    /* padding: 10%; */
+}
+.background-color-2{
+   background-color: #2b2b2b;
+}
+
+.footer-lab{
+    color:white;
+}
+
+hr{
+    background-color:white;
+}
+
+.link{
+    color:white;
+    text-decoration: none;
+    
+}
+
+h5{
+    color: white;
+}
+#iphone-6{
+    width: 90%;
+    height: 90%;
+    position: relative;
+    left: 4%; 
+    right: 4%;
+    border: white solid;
+    padding: 20%;
+    box-sizing: unset
+}
+.p-iphone{
+    position: relative;
+    left: 20%;
+}
+
+.p-taxi{
+    /* position: relative; */
+left: 20%;
+}
+
+.pos-rel{
+    position: absolute;
+    bottom:-140%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
