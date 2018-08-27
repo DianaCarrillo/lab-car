@@ -65,8 +65,11 @@ left: 20%;
 }
 
 .pos-rel{
-    position: absolute;
-    bottom:-140%;
+    /* position: absolute; */
+    /* bottom:-140%;
     left: 80%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); */
+}
+#conductor-btn{
+    background-color: #f7b617; 
 }
