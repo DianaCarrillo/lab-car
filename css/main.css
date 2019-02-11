@@ -6,8 +6,8 @@
 }
 
 #taxi-img, #conductor-img{
-     width: 100%;
-height: 80%; 
+width: 100%;
+height: 60%; 
 height: 100hv;
 /* height: 100vw; */
 
@@ -19,6 +19,7 @@ height: 100hv;
 .background-color{
     background-color: #f7b617;
     padding: 3%;
+    height: 1500px;
 }
 .background-color-3{
     background-color: #f7b617;
@@ -47,19 +48,24 @@ h5{
     color: white;
 }
 #iphone-6{
-    width: 90%;
-    height: 90%;
+    /* width: 90%;
     position: relative;
     left: 2%; 
     right: 4%;
     border: white solid;
     padding: 3%;
-    box-sizing: unset
+    box-sizing: unset */
+    width: 100%;
+height: 1000px; 
+width: 600px;
+margin-left: 250px;
+margin-top :100px;
 }
 .p-iphone,{
-    position: relative; 
+    /* position: relative;  */
     left: 20%;
     color:white; 
+    justify-content: center
 }
 
 .p-taxi{
@@ -75,4 +81,8 @@ left: 20%;
 }
 #conductor-btn{
     background-color: #f7b617; 
+}
+
+.container-fluid{
+    padding: 0;
 }
